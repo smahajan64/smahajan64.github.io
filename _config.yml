@@ -1,3 +1,5 @@
 theme: jekyll-theme-hacker
 name: Spruha's Birthday Registry
 title: null
+github:
+  is_project_page: false
